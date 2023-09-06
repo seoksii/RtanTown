@@ -1,0 +1,526 @@
+fileFormatVersion: 2
+guid: dda6bbdb704d84847b38f9eced72bf59
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: TX Stairs M L
+  - first:
+      213: 21300002
+    second: TX Stairs M R
+  - first:
+      213: 21300004
+    second: TX Stairs M M
+  - first:
+      213: 21300006
+    second: TX Stairs West
+  - first:
+      213: 21300008
+    second: TX Stairs West F
+  - first:
+      213: 21300010
+    second: TX Stairs L L
+  - first:
+      213: 21300012
+    second: TX Stairs L R
+  - first:
+      213: 21300014
+    second: TX Stairs L M
+  - first:
+      213: 21300016
+    second: TX Struct Gate T2 T
+  - first:
+      213: 21300018
+    second: TX Struct Gate T2 B
+  - first:
+      213: 21300020
+    second: TX Stairs R L
+  - first:
+      213: 21300022
+    second: TX Stairs R M
+  - first:
+      213: 21300024
+    second: TX Stairs R R
+  - first:
+      213: 21300026
+    second: TX Struct Gate T1 B
+  - first:
+      213: 21300028
+    second: TX Struct Gate T1 T
+  - first:
+      213: 21300030
+    second: TX Stairs Broken M M
+  - first:
+      213: 21300032
+    second: TX Stairs Broken M R
+  - first:
+      213: 21300034
+    second: TX Stairs Broken L L
+  - first:
+      213: 21300036
+    second: TX Stairs Broken L M
+  - first:
+      213: 21300038
+    second: TX Stairs Broken L R
+  - first:
+      213: 21300040
+    second: TX Stairs Broken R L
+  - first:
+      213: 21300042
+    second: TX Stairs Broken R M
+  - first:
+      213: 21300044
+    second: TX Stairs Broken R R
+  - first:
+      213: 21300046
+    second: TX Stairs Broken M L
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TX Struct_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd069cdaf401504c93dd9ca7e806bd7
+      internalID: 1547856008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Struct_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba2810b4ff056d4387f5d4aa692d112
+      internalID: 1063204321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Struct_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e81bae2abef2f4698dae798809f1b4
+      internalID: -455375465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Struct_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f735ed021c0ca3a4dae216753f16c277
+      internalID: 1718384054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Struct_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428e57a2c42989c4b83e91aec8a1184d
+      internalID: 2128398062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Struct_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74cdd05f97489145ac3e8750c71c340
+      internalID: 1438947932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b7d7f8e627d8cba42b12a511a2f63685
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TX Struct_0: 1718384054
+      TX Struct_1: 1063204321
+      TX Struct_10: -1424886743
+      TX Struct_100: -1736169382
+      TX Struct_101: -905964238
+      TX Struct_102: 6854490
+      TX Struct_103: -1315480199
+      TX Struct_104: 903167275
+      TX Struct_105: -379181574
+      TX Struct_106: -1868331698
+      TX Struct_107: 1468039956
+      TX Struct_108: -1037589017
+      TX Struct_109: -1936935236
+      TX Struct_11: -626659220
+      TX Struct_110: 1893838759
+      TX Struct_111: -1726116701
+      TX Struct_112: 1989080575
+      TX Struct_113: 1016613374
+      TX Struct_114: -1473664647
+      TX Struct_115: -1434522840
+      TX Struct_116: 176505136
+      TX Struct_117: -471398938
+      TX Struct_118: 614915167
+      TX Struct_119: -2141292177
+      TX Struct_12: -1462625098
+      TX Struct_120: 1542264245
+      TX Struct_121: 344016505
+      TX Struct_122: 42568313
+      TX Struct_123: -1668468116
+      TX Struct_124: -2031538959
+      TX Struct_125: 1455770611
+      TX Struct_126: 1401219002
+      TX Struct_127: -2053303722
+      TX Struct_128: 744317090
+      TX Struct_129: 1721606729
+      TX Struct_13: -1389857506
+      TX Struct_130: 1854807075
+      TX Struct_131: 1352500518
+      TX Struct_132: -795270307
+      TX Struct_133: 1103280454
+      TX Struct_134: 1652328016
+      TX Struct_135: -1480763872
+      TX Struct_136: 1991329724
+      TX Struct_137: -1360608999
+      TX Struct_138: 296677775
+      TX Struct_139: -1963033263
+      TX Struct_14: -2027371259
+      TX Struct_140: -1565912164
+      TX Struct_141: -1779554831
+      TX Struct_142: -1497323520
+      TX Struct_143: -465555447
+      TX Struct_144: -1378691723
+      TX Struct_145: -187700858
+      TX Struct_146: -884451950
+      TX Struct_147: 1711906503
+      TX Struct_148: -2003042487
+      TX Struct_149: -1310766183
+      TX Struct_15: -871574190
+      TX Struct_150: -292546190
+      TX Struct_151: -2105040887
+      TX Struct_152: -1028031331
+      TX Struct_153: -583808339
+      TX Struct_154: -1953059032
+      TX Struct_155: 1976572046
+      TX Struct_156: 1756255584
+      TX Struct_157: -1165451667
+      TX Struct_158: -2051070968
+      TX Struct_159: 1883356285
+      TX Struct_16: 1903264174
+      TX Struct_160: -458546991
+      TX Struct_161: 514634365
+      TX Struct_162: 1910030748
+      TX Struct_163: 1764775073
+      TX Struct_164: 297837042
+      TX Struct_165: 1779543600
+      TX Struct_166: 1601341889
+      TX Struct_167: 862211751
+      TX Struct_168: 1625952560
+      TX Struct_169: 305596486
+      TX Struct_17: 305868239
+      TX Struct_170: -425154928
+      TX Struct_171: -1355885774
+      TX Struct_172: 1978687733
+      TX Struct_173: -1244547946
+      TX Struct_174: 1188096890
+      TX Struct_175: -1616394947
+      TX Struct_176: 218370401
+      TX Struct_177: 1226243882
+      TX Struct_178: -1294675895
+      TX Struct_179: -394733480
+      TX Struct_18: -1900138022
+      TX Struct_180: 1600023500
+      TX Struct_181: 893932480
+      TX Struct_182: 255379121
+      TX Struct_183: 1482397981
+      TX Struct_184: -495027181
+      TX Struct_185: -2000811513
+      TX Struct_186: -93719768
+      TX Struct_187: 105528189
+      TX Struct_188: 218618457
+      TX Struct_189: 1836301372
+      TX Struct_19: 1514263844
+      TX Struct_190: 856242131
+      TX Struct_191: 1468594230
+      TX Struct_192: -1640108748
+      TX Struct_193: 962770912
+      TX Struct_194: -1167380954
+      TX Struct_195: -825561354
+      TX Struct_196: -1927833441
+      TX Struct_197: 366122343
+      TX Struct_198: 261554499
+      TX Struct_199: 1648103323
+      TX Struct_2: 1718384054
+      TX Struct_20: 1519997594
+      TX Struct_200: 1246489417
+      TX Struct_201: 318616688
+      TX Struct_21: 704139915
+      TX Struct_22: 1263229254
+      TX Struct_23: -1837177119
+      TX Struct_24: -787902130
+      TX Struct_25: -1369356733
+      TX Struct_26: 1713742253
+      TX Struct_27: -1745930658
+      TX Struct_28: -1226820233
+      TX Struct_29: 1777939321
+      TX Struct_3: 2128398062
+      TX Struct_30: -2075500086
+      TX Struct_31: -754108037
+      TX Struct_32: -1540792633
+      TX Struct_33: -791234525
+      TX Struct_34: 633530848
+      TX Struct_35: 3901827
+      TX Struct_36: 223869126
+      TX Struct_37: -614245120
+      TX Struct_38: -828930888
+      TX Struct_39: -1087710364
+      TX Struct_4: 1547856008
+      TX Struct_40: 874187426
+      TX Struct_41: 2044113907
+      TX Struct_42: 798576453
+      TX Struct_43: -1088745956
+      TX Struct_44: 915735751
+      TX Struct_45: 1785226194
+      TX Struct_46: -839690891
+      TX Struct_47: 1406290418
+      TX Struct_48: 1934067152
+      TX Struct_49: 96515291
+      TX Struct_5: 1438947932
+      TX Struct_50: 1270277532
+      TX Struct_51: -2123210702
+      TX Struct_52: 831554427
+      TX Struct_53: -350819317
+      TX Struct_54: 667685665
+      TX Struct_55: -1898500279
+      TX Struct_56: 2052437418
+      TX Struct_57: -971006959
+      TX Struct_58: -643325416
+      TX Struct_59: 1825556929
+      TX Struct_60: 234164812
+      TX Struct_61: 66524004
+      TX Struct_62: 261340237
+      TX Struct_63: 621282119
+      TX Struct_64: -1335561875
+      TX Struct_65: 140544569
+      TX Struct_66: -1338196673
+      TX Struct_67: -1669995829
+      TX Struct_68: -442259813
+      TX Struct_69: 791681555
+      TX Struct_7: -762216212
+      TX Struct_70: -2102105681
+      TX Struct_71: 249200586
+      TX Struct_72: -810145997
+      TX Struct_73: 751861071
+      TX Struct_74: -1285447928
+      TX Struct_75: -325351006
+      TX Struct_76: 343297283
+      TX Struct_77: 1222641296
+      TX Struct_78: -881583454
+      TX Struct_79: 1109518375
+      TX Struct_8: 39206872
+      TX Struct_80: 1609974937
+      TX Struct_81: -1782176487
+      TX Struct_82: 859373741
+      TX Struct_83: 196400816
+      TX Struct_84: -1801749844
+      TX Struct_85: 325496357
+      TX Struct_86: -1697769411
+      TX Struct_87: -1518795311
+      TX Struct_88: -1505037023
+      TX Struct_89: 1139029036
+      TX Struct_9: -1141067370
+      TX Struct_90: -715807500
+      TX Struct_91: -1319794036
+      TX Struct_92: -869437593
+      TX Struct_93: -552959992
+      TX Struct_94: 1845971370
+      TX Struct_95: -772200924
+      TX Struct_96: 1778108946
+      TX Struct_97: 985887107
+      TX Struct_98: -100968664
+      TX Struct_99: 48913915
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
